@@ -36,8 +36,6 @@
 <ul>
   <li><code>app.py:</code> Python script containing the Flask application and database interaction functions.</li>
   <li><code>templates/home.html:</code> HTML template for the main application page, including forms and employee data display.</li>
-  <li><code>static/style.css:</code> CSS file for styling the web page.</li>
-  <li><code>requirements.txt:</code> Lists the project dependencies.</li>
 </ul>
 
 
