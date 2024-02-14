@@ -1,4 +1,4 @@
-# Develop_ResetAPI
+# Develop-Reset_API
 
 <h2>Introduction </h2>
 <h3>There are various methods for communication between client and servers as :</h3>
