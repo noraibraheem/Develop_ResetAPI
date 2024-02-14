@@ -56,8 +56,8 @@
 <ul>
   <li>Flask</li>
   <li>PyODBC</li>
-  <li>Bootstrap (CDN)</li>
-  <li>SweetAlert2 (CDN)</li>
+  <li>Bootstrap </li>
+  <li>javaScript </li>
 </ul>
 
 
